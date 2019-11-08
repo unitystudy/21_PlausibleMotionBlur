@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 79084303680a4cc42ab9138d62addbed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _velocity_map: {fileID: 8600000, guid: 230dbc84b8e426d489cc8c8d60218b9b, type: 2}
+  - _velocitymap_material: {fileID: 2100000, guid: 8ec956362978c924ca758dcdb1f3f106,
+      type: 2}
+  - _tile_max_map_tmp: {fileID: 8600000, guid: 2bfcf8cc85258ad48bc5b21bc4e1de04, type: 2}
+  - _tile_max_map: {fileID: 8600000, guid: 9913e15238dc25744811f36281254359, type: 2}
+  - _neighbor_max_map: {fileID: 8600000, guid: a8c0c98e14836e04ab29bed919152947, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
